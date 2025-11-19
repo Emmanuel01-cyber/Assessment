@@ -1,2 +1,4 @@
 # hello.py – prints "Hello"
-print("HELLO EMMANUEL")
+print("HELLO")
+print("my name is")
+print("EMMANUEL")

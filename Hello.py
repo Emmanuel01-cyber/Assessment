@@ -1,2 +1,2 @@
-# hello.py – prints "Hello World"
+# hello.py – prints "Hello"
 print("HELLO EMMANUEL")
